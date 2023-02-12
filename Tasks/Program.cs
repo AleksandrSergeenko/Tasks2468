@@ -66,6 +66,7 @@ Console.WriteLine($"max = {max}");
 -3 -> нет
 7 -> нет
 */
+
 /*
 int N;
 Console.Write("Число чётное? Ведите число: ");
